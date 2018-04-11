@@ -2,35 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33584d3b-ffa8-4983-aa3d-2ca848501246" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsAlgorithm/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsAlgorithm/dsAlgorithmSortByImplementation/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsAlgorithm/dsAlgorithmSortDesignParadigm/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsSorting/BubbleSort.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsSorting/SelectionSort.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsSorting/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsBackpropagation/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsDecisionTree/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsLogisticRegression/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsNaiveBayes/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsOnlineMachineLearning/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsQLearning/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsRegression/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsReinforcementlearning/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsSVM/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dskNearestNeighbors/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dsDimensionalityReductionAlgorithms/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dsGradientBoostingAlgorithms/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dsGradientBoostingAlgorithms/dsCatboost/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dsGradientBoostingAlgorithms/dsGBM/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dsGradientBoostingAlgorithms/dsXGBoost/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dsRandomForest/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dskMeans/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsSearchingAlgorithms/BinarySearch/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsSearchingAlgorithms/JumpSearch/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsSearchingAlgorithms/LinearSearch.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsSearchingAlgorithms/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsNeuralNetworks/LongShort_TermMemory_LSTM/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsNeuralNetworks/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsNeuralNetworks/dsConvolutionalNeuralNetwork_CNN/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsNeuralNetworks/dsFeedforwardNeuralNetwork/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsNeuralNetworks/dsKohonenSelfOrganizing/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsNeuralNetworks/dsModularNeuralNetwork/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsNeuralNetworks/dsMultiLayerPerceptron_MLP/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsNeuralNetworks/dsRadialBasisFunction/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsNeuralNetworks/dsRecurrentNeuralNetworkRNN/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsNeuralNetworks/dsRecursiveNeuralNetwork _RNN/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsNeuralNetworks/dsSequence_To_SequenceModels/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsNeuralNetworks/dsShallowNeuralNetworks/__init__.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -123,27 +106,6 @@
             <path>
               <item name="dsRavindra" type="b2602c69:ProjectViewProjectNode" />
               <item name="dsRavindra" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsRavindra" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsRavindra" type="462c0819:PsiDirectoryNode" />
-              <item name="dsAlgorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsRavindra" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsRavindra" type="462c0819:PsiDirectoryNode" />
-              <item name="dsDataStructures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsRavindra" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsRavindra" type="462c0819:PsiDirectoryNode" />
-              <item name="dsSearchingAlgorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsRavindra" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsRavindra" type="462c0819:PsiDirectoryNode" />
-              <item name="dsSearchingAlgorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="dsInterpolationSearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
