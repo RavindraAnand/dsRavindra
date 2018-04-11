@@ -2,44 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33584d3b-ffa8-4983-aa3d-2ca848501246" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStorage/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStorage/dsClusterComputing/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStorage/dsNoSql/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStorage/dsRDBMS/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsArray/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsArray/dsComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsArray/dsComplexity/dsSpaceComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsArray/dsComplexity/dsTimeComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsLinearList/dsQueues/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsLinearList/dsQueues/dsComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsLinearList/dsQueues/dsComplexity/dsSpaceComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsLinearList/dsQueues/dsComplexity/dsTimeComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsLinearList/dsStack/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsLinearList/dsStack/dsComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsLinearList/dsStack/dsComplexity/dsSpaceComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsLinearList/dsStack/dsComplexity/dsTimeComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsNonLinearList/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsNonLinearList/dsGraph/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsNonLinearList/dsGraph/dsComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsNonLinearList/dsGraph/dsComplexity/dsSpaceComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsNonLinearList/dsGraph/dsComplexity/dsTimeComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsNonLinearList/dsTree/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsNonLinearList/dsTree/dsComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsNonLinearList/dsTree/dsComplexity/dsSpaceComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsNonPrimitive/dsList/dsNonLinearList/dsTree/dsComplexity/dsTimeComplexity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsDataTypes/dsPrimitive/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsMath/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsStatistical/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dsWebScraping/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/read-me.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/start-up.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/dsRavindra.iml" afterPath="$PROJECT_DIR$/.idea/dsRavindra.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsAlgorithm/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsAlgorithm/dsAlgorithmSortByImplementation/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsAlgorithm/dsAlgorithmSortDesignParadigm/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsSorting/BubbleSort.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsSorting/SelectionSort.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsDataStructures/dsSorting/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsBackpropagation/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsDecisionTree/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsLogisticRegression/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsNaiveBayes/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsOnlineMachineLearning/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsQLearning/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsRegression/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsReinforcementlearning/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dsSVM/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsSupervisedLearning/dskNearestNeighbors/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dsDimensionalityReductionAlgorithms/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dsGradientBoostingAlgorithms/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dsGradientBoostingAlgorithms/dsCatboost/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dsGradientBoostingAlgorithms/dsGBM/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dsGradientBoostingAlgorithms/dsXGBoost/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dsRandomForest/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsMachineLearning/dsUnsupervisedLearning/dskMeans/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsSearchingAlgorithms/BinarySearch/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsSearchingAlgorithms/JumpSearch/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsSearchingAlgorithms/LinearSearch.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dsSearchingAlgorithms/__init__.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +41,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="SelectionSort.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dsDataStructures/dsSorting/SelectionSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinearSearch.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dsSearchingAlgorithms/LinearSearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,6 +85,9 @@
         <option value="$PROJECT_DIR$/start-up.py" />
         <option value="$PROJECT_DIR$/t.ipynb" />
         <option value="$PROJECT_DIR$/read-me.html" />
+        <option value="$PROJECT_DIR$/dsDataStructures/dsSorting/BubbleSort.py" />
+        <option value="$PROJECT_DIR$/dsDataStructures/dsSorting/SelectionSort.py" />
+        <option value="$PROJECT_DIR$/dsSearchingAlgorithms/LinearSearch.py" />
       </list>
     </option>
   </component>
@@ -108,6 +123,27 @@
             <path>
               <item name="dsRavindra" type="b2602c69:ProjectViewProjectNode" />
               <item name="dsRavindra" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsRavindra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsRavindra" type="462c0819:PsiDirectoryNode" />
+              <item name="dsAlgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsRavindra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsRavindra" type="462c0819:PsiDirectoryNode" />
+              <item name="dsDataStructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsRavindra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsRavindra" type="462c0819:PsiDirectoryNode" />
+              <item name="dsSearchingAlgorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsRavindra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsRavindra" type="462c0819:PsiDirectoryNode" />
+              <item name="dsSearchingAlgorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="dsInterpolationSearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,6 +343,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dsDataStructures/dsNumberSystems/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dsDataStructures/dsSorting/BubbleSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dsDataStructures/dsSorting/SelectionSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dsSearchingAlgorithms/LinearSearch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
